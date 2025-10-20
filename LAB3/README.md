@@ -12,7 +12,7 @@
 
 ## 🧩 Task 1: Handling Local and Remote Commit Conflicts (Pull vs Pull --rebase)
 
-![no remote_edit.png task1(1)](no%20remote_edit.png%20task1(1))  
+![no remote_edit.png task1(1).png](no%20remote_edit.png%20task1(1).png)  
 ![local_commit.png task1(2)](local_commit.png%20task1(2))  
 ![push_error.png task1(3)](push_error.png%20task1(3))  
 ![merge_commit.png task1(4)](merge_commit.png%20task1(4))  
