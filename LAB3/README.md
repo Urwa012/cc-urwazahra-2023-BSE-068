@@ -1,6 +1,6 @@
-# 🧠 Cloud Computing – Lab 3
-**Fatima Jinnah Women University**
+# Cloud Computing – Lab 3
 
+**Fatima Jinnah Women University**  
 **Subject:** Cloud Computing  
 **Name:** Urwa Zahra (5-B)  
 **Registration Number:** 2023-BSE-068  
@@ -8,114 +8,131 @@
 
 ---
 
+## 📘 Overview
 
-
----
-
-## 🧩 Task 1 – Handling Local and Remote Commit Conflicts
-![](remote_edit_task1_1.png)  
-![](local_commit_task1_2.png)  
-![](push_error_task1_3.png)  
-![](merge_commit_task1_4.png)  
-![](push_after_merge_task1_5.png)  
-![](rebase_pull_task1_6i.png)  
-![](push_after_rebase_task1_6ii.png)
+This lab demonstrates advanced Git concepts such as conflict resolution, rebasing, resetting commits, force pushing, and managing a self-hosted Git platform using Gitea. Each task shows screenshots of the steps performed.
 
 ---
 
-## ⚔️ Task 2 – Creating and Resolving Merge Conflicts Manually
-![](remote_conflict_edit_task2_1.png)  
-![](local_conflict_edit_task2_2.png)  
-![](local_conflict_commit_task2_3.png)  
-![](conflict_push_error_task2_4.png)  
-![](conflict_message_task2_5.png)  
-![](resolved_readme_task2_6.png)  
-![](rebase_continue_task2_7.png)  
-![](push_after_resolve_task2_8.png)
+## 🧩 Task 1: Handling Local and Remote Commit Conflicts (Pull vs Pull --rebase)
+
+![Step 1](no_remote_edit.png)  
+![Step 2](local_commit.png)  
+![Step 3](push_error.png)  
+![Step 4](merge_commit.png)  
+![Step 5](push_after_merge.png)  
+![Step 6i](rebase_pull.png)  
+![Step 6ii](push_after_rebase.png)
 
 ---
 
-## 🗂️ Task 3 – Managing Ignored Files with `.gitignore`
-![](push_textfiles_task3_1.png)  
-![](gitignore_push_task3_2.png)  
-![](repo_still_has_textfiles_task3_3.png)  
-![](rm_cached_push_task3_4.png)  
-![](repo_textfiles_removed_task3_5.png)
+## ⚔️ Task 2: Creating and Resolving Merge Conflicts Manually
+
+![Step 1](remote_conflict_edit.png)  
+![Step 2](local_conflict_edit.png)  
+![Step 3](local_conflict_commit.png)  
+![Step 4](conflict_push_error.png)  
+![Step 5](conflict_message.png)  
+![Step 6](resolved_readme.png)  
+![Step 7](rebase_continue.png)  
+![Step 8](push_after_resolve.png)
 
 ---
 
-## 💾 Task 4 – Create Temporary Changes and Use `git stash`
-![](modified_readme_task4_1.png)  
-![](checkout_error_task4_2.png)  
-![](stash_command_task4_3.png)  
-![](branch_switched_task4_4.png)  
-![](back_to_feature_task4_5.png)  
-![](status_clean_task4_6.png)  
-![](stash_pop_task4_7.png)
+## 🗂️ Task 3: Managing Ignored Files with .gitignore and Removing Tracked Files
+
+![Step 1](push_textfiles.png)  
+![Step 2](gitignore_push.png)  
+![Step 3](repo_still_has_textfiles.png)  
+![Step 4](rm_cached_push.png)  
+![Step 5](repo_textfiles_removed.png)
 
 ---
 
-## 🧭 Task 5 – Checkout a Specific Commit Using `git log`
-![](log_before_checkout_task5_1.png)  
-![](detached_head_task5_2.png)  
-![](back_to_main_task5_3.png)
+## 💾 Task 4: Create Temporary Changes and Use git stash
+
+![Step 1](modified_readme.png)  
+![Step 2](checkout_error.png)  
+![Step 3](stash_command.png)  
+![Step 4](branch_switched.png)  
+![Step 5](back_to_feature.png)  
+![Step 6](status_clean.png)  
+![Step 7](stash_pop.png)
 
 ---
 
-## 🔁 Task 6 – Resetting Commits (Soft vs Hard)
-![](first_commit_task6_1.png)  
-![](second_commit_task6_2.png)  
-![](log_before_reset_task6_3.png)  
-![](file_before_reset_task6_4.png)  
-![](soft_reset_task6_5.png)  
-![](log_after_soft_reset_task6_6.png)  
-![](file_after_soft_reset_task6_7.png)  
-![](file_after_hard_reset_task6_8.png)  
-![](hard_reset_task6_9.png)  
-![](log_after_hard_reset_task6_10.png)  
-![](file_after_hard_reset_task6_11.png)
+## 🕓 Task 5: Checkout a Specific Commit Using git log
+
+![Step 1](log_before_checkout.png)  
+![Step 2](detached_head.png)  
+![Step 3](back_to_main.png)
 
 ---
 
-## 📝 Task 7 – Amending the Last Commit
-![](first_amend_commit_task7_1.png)  
-![](amend_commit_task7_2.png)
+## ♻️ Task 6: Resetting Commits (Soft vs Hard Reset)
+
+![Step 1](first_commit.png)  
+![Step 2](second_commit.png)  
+![Step 3](log_before_reset.png)  
+![Step 4](file_before_reset.png)  
+![Step 5](soft_reset.png)  
+![Step 6](log_after_soft_reset.png)  
+![Step 7](file_after_soft_reset.png)  
+![Step 8](file_after_hard_reset.png)  
+![Step 9](hard_reset.png)  
+![Step 10](log_after_hard_reset.png)  
+![Step 11](file_after_hard_reset.png)
 
 ---
 
-## 🧨 Task 8 – Reverting a Commit (Safe Undo)
-![](commit_temp_file_task8_1.png)  
-![](revert_commit_task8_2.png)  
-![](revert_push_task8_3.png)
+## 📝 Task 7: Amending the Last Commit
+
+![Step 1](first_amend_commit.png)  
+![Step 2](amend_commit.png)
 
 ---
 
-## 🚀 Task 9 – Force Push (With Caution)
-![](new_branch_task9_1.png)  
-![](force_commit_task9_2.png)  
-![](push_force_branch_task9_3.png)  
-![](hard_reset_force_task9_4.png)  
-![](normal_push_task9_5.png)  
-![](force_push_task9_6.png)
+## 🔁 Task 8: Reverting a Commit (Safe Undo on Remote Branch)
+
+![Step 1](commit_temp_file.png)  
+![Step 2](revert_commit.png)  
+![Step 3](revert_push.png)
 
 ---
 
-## 🐳 Task 10 – Running Gitea in GitHub Codespaces via Docker Compose
-![](forked_gitea_task10_1.png)  
-![](codespace_loading_task10_2.png)  
-![](docker_up_task10_3.png)  
-![](gitea_install_page_task10_4.png)  
-![](admin_setup_task10_5.png)  
-![](gitea_dashboard_task10_6.png)  
-![](gitea_new_repo_task10_7.png)
+## ⚠️ Task 9: Force Push (With Caution)
+
+![Step 1](new_branch.png)  
+![Step 2](force_commit.png)  
+![Step 3](push_force_branch.png)  
+![Step 4](hard_reset_force.png)  
+![Step 5](normal_push.png)  
+![Step 6](force_push.png)
 
 ---
 
-## 🌐 Task 11 – Creating a GitHub Pages Portfolio Site
-![](github_pages_repo_task11_1.png)  
-![](local_static_site_task11_2.png)  
-![](push_static_site_task11_3.png)  
-![](github_pages_settings_task11_4.png)  
-![](live_site_task11_5.png)
+## 🐳 Task 10: Running Gitea in GitHub Codespaces via Docker Compose
+
+![Step 1](forked_gitea.png)  
+![Step 2](codespace_loading.png)  
+![Step 3](docker_up.png)  
+![Step 4](gitea_install_page.png)  
+![Step 5](admin_setup.png)  
+![Step 6](gitea_dashboard.png)  
+![Step 7](gitea_new_repo.png)
 
 ---
+
+## 🌐 Task 11: Creating a GitHub Pages Portfolio Site
+
+![Step 1](github_pages_repo.png)  
+![Step 2](local_static_site.png)  
+![Step 3](push_static_site.png)  
+![Step 4](github_pages_settings.png)  
+![Step 5](live_site.png)
+
+---
+
+## ✅ Conclusion
+
+This lab provided hands-on experience with Git workflows, conflict management, stashing, resets, and hosting solutions. Through these exercises, I learned how to handle complex version control operations effectively.
