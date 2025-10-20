@@ -19,57 +19,72 @@
 
 <img width="814" height="319" alt="image" src="https://github.com/user-attachments/assets/e024a954-d882-44c5-8d73-7a04a7c6e9cc" />
 
-<img width="814" height="319" alt="image" src="https://github.com/user-attachments/assets/2cd391ec-aa90-44ff-b839-76789467d2ec" />
 
-<img width="653" height="98" alt="image" src="https://github.com/user-attachments/assets/02d46c52-f30c-44a4-8d3d-0dfb7650b6c5" />
+<img width="653" height="98" alt="image" src="https://github.com/user-attachments/assets/03e73c52-a017-484e-92d7-fb6af6589a3a" />
 
-<img width="653" height="98" alt="image" src="https://github.com/user-attachments/assets/eb145dd3-a169-4944-b996-55da8953315d" />
+<img width="626" height="146" alt="image" src="https://github.com/user-attachments/assets/3dd9de7c-58c7-47ab-b662-183fe7bdbe82" />
 
-<img width="653" height="98" alt="image" src="https://github.com/user-attachments/assets/dedcf4f0-de86-4ec0-8ed8-934dddac061f" />
 
+
+<img width="820" height="276" alt="image" src="https://github.com/user-attachments/assets/f317988a-77eb-485e-aabf-f08d751be38f" />
 
 ---
 
 ## Task 2 – Creating and Resolving Merge Conflicts Manually
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/1096c482-7316-4333-9247-77f2b6334e22" />
-
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/5b19eccc-3b2f-42fd-8f37-8f84154d6a78" />
-
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/a385b922-61e8-4825-844c-752ca69f29ed" />
-
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/d44f8ac7-d6ea-429a-a1ff-1b6746b58790" />
-
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/7d9d41be-97f7-4477-b624-df2d17635172" />
 
 
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/d944a3bd-273e-42a7-bd32-c1b0a995303f" />
+<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/5fff442c-d24d-4e2c-8cd1-8ffa07f84499" />
 
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/0c5e6b6c-6002-4374-8ebb-425bf178b2cc" />
 
-<img width="656" height="414" alt="image" src="https://github.com/user-attachments/assets/23246f93-7300-4208-a725-d999fb2d5dfa" />
+<img width="621" height="334" alt="image" src="https://github.com/user-attachments/assets/6a20c6fb-ba6f-4ff9-939c-3e25bc9beedb" />
+
+
+<img width="684" height="250" alt="image" src="https://github.com/user-attachments/assets/c9576f65-354c-4814-8a3a-2cd83b4a7e31" />
+
+
+<img width="879" height="260" alt="image" src="https://github.com/user-attachments/assets/89500930-d096-4a35-9b2d-6e6cf17270b0" />
+
+
+<img width="940" height="465" alt="image" src="https://github.com/user-attachments/assets/f11ca968-b125-4671-a844-8dac07be0463" />
+
+
+<img width="889" height="465" alt="image" src="https://github.com/user-attachments/assets/13adc80a-1eb1-46de-a739-8eea0cc0658c" />
+
+
+<img width="413" height="166" alt="image" src="https://github.com/user-attachments/assets/2c4f2783-5259-455d-8850-a1750343d072" />
+
+
+<img width="754" height="248" alt="image" src="https://github.com/user-attachments/assets/0843b94a-d772-42fb-b6bf-3d117395b317" />
 
 ---
 
 ## 🗂️ Task 3 – Managing Ignored Files with `.gitignore`
 
-<img width="684" height="250" alt="image" src="https://github.com/user-attachments/assets/5f399a8c-17e1-4d8b-99b1-56f7d5c13415" />
 
-<img width="684" height="250" alt="image" src="https://github.com/user-attachments/assets/700e2dc9-b3a3-44f9-8e3c-0d41221a2766" />
+<img width="781" height="597" alt="image" src="https://github.com/user-attachments/assets/1d25fa90-c3ab-4428-ac1d-88fe434ab92d" />
 
-<img width="550" height="558" alt="image" src="https://github.com/user-attachments/assets/24a97a99-e3ef-4bcb-8912-abdeebd179a7" />
 
-<img width="841" height="565" alt="image" src="https://github.com/user-attachments/assets/393147d3-ac07-4294-a6ec-5273219cc966" />
+<img width="908" height="558" alt="image" src="https://github.com/user-attachments/assets/ec09dd95-b714-4540-a3b1-b3bf25228954" />
 
-<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/1d9f4480-4b32-447b-9ec6-c4ac3cad5a65" />
----
+
+<img width="550" height="558" alt="image" src="https://github.com/user-attachments/assets/41914492-4753-4127-b246-267e984626db" />
+
+
+<img width="841" height="565" alt="image" src="https://github.com/user-attachments/assets/20882248-a9e9-4322-abb9-ba61ddde58c0" />
+
+
+<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/46b577d9-354e-40ed-9695-f1c96f23970d" />
+
 
 ##  Task 4 – Create Temporary Changes and Use `git stash`
 
-<img width="940" height="411" alt="image" src="https://github.com/user-attachments/assets/e4fa8714-f0d0-482d-a085-3a48e125379f" />
+<img width="608" height="515" alt="image" src="https://github.com/user-attachments/assets/d16eac99-d915-4fc2-8c92-2a1f24038415" />
 
-<img width="906" height="270" alt="image" src="https://github.com/user-attachments/assets/854f6d40-67d6-48f8-95b9-17f32a010ec9" />
 
-<img width="940" height="125" alt="image" src="https://github.com/user-attachments/assets/220d059e-ff3a-40e0-89aa-33d813754819" />
+<img width="906" height="270" alt="image" src="https://github.com/user-attachments/assets/46e36736-9280-4434-b23b-b6b449e94825" />
+
+
+<img width="940" height="125" alt="image" src="https://github.com/user-attachments/assets/948f415e-0228-4310-902e-bb4abdc332aa" />
 
 <img width="541" height="121" alt="image" src="https://github.com/user-attachments/assets/8f1a8f1d-f4bd-4553-9273-bc4694a34091" />
 
@@ -164,13 +179,15 @@
 
 ## 🐳 Task 10 – Running Gitea in GitHub Codespaces via Docker Compose
 
-<img width="940" height="293" alt="image" src="https://github.com/user-attachments/assets/99301827-ba83-4342-b991-17a2ce1c099f" />
+<img width="940" height="293" alt="image" src="https://github.com/user-attachments/assets/ac03f49b-f73b-4263-953b-3575463c2d41" />
 
 
-<img width="940" height="563" alt="image" src="https://github.com/user-attachments/assets/01be6475-10b0-4b95-9c6a-61dff09f9b1d" />
+
+<img width="940" height="563" alt="image" src="https://github.com/user-attachments/assets/f1dbf375-8bac-4743-89cf-44080291b333" />
 
 
-<img width="709" height="310" alt="image" src="https://github.com/user-attachments/assets/ffbfb3da-e1d3-4b16-b6f0-4197d7363b28" />
+<img width="709" height="310" alt="image" src="https://github.com/user-attachments/assets/7abdc8b6-ebc1-4492-97a1-1dfcf637588d" />
+
 
 
 <img width="579" height="521" alt="image" src="https://github.com/user-attachments/assets/6e998cd7-4296-47e9-accb-8f177f8dea81" />
@@ -182,7 +199,8 @@
 <img width="788" height="205" alt="image" src="https://github.com/user-attachments/assets/e38db0b3-ec4c-465b-99fb-9f860d929fd7" />
 
 
-<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/0957af6e-020c-45bd-b01f-c7a9b501889f" />
+<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/c163f700-c9dd-4b0b-8f9c-29262b578ca4" />
+
 
 
 ---
