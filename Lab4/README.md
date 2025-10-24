@@ -1,28 +1,28 @@
-# ☁️ Cloud Computing – Lab 04  
+#  Cloud Computing – Lab 04  
 ### Virtualization & Linux Fundamentals
 
 ---
 
-### 🏫 Course
+###  Course
 BSE (V-B)
 
-### 👩‍🎓 Submitted By
+###  Submitted By
 **Name:** Urwa Zahra  
 **Roll No:** 2023-BSE-068 
 
-### 👨‍🏫 Submitted To
+###  Submitted To
 **Instructor:** Sir Muhammad Shoaib  
 
 ---
 
-## 🧪 Task 1 – VM Configuration
+##  Task 1 – VM Configuration
 
 **VM hardware specifications:**  
 ![VM Settings](vm_settings_task1.png)
 
 ---
 
-## 🧩 Task 2 – SSH & User Verification
+##  Task 2 – SSH & User Verification
 
 **SSH connection from host to Ubuntu VM:**  
 ![VM Login](vm_login_task2(1).png)
@@ -32,7 +32,7 @@ BSE (V-B)
 
 ---
 
-## 📂 Task 3 – Linux Directory Structure
+##  Task 3 – Linux Directory Structure
 
 **Root directory listing:**  
 ![Root Directory](ls_root_task3(1).png)
@@ -69,7 +69,7 @@ BSE (V-B)
 
 ---
 
-## 🧠 Task 4 – File Operations & Navigation
+##  Task 4 – File Operations & Navigation
 
 **Created workspace folder:**  
 ![mkdir workspace](mkdir_workspace_task4(1).png)
@@ -118,7 +118,7 @@ BSE (V-B)
 
 ---
 
-## ⚙️ Task 5 – System Profiling & Process Monitoring
+##  Task 5 – System Profiling & Process Monitoring
 
 **Kernel and OS information:**  
 ![uname](uname_task5(1).png)
@@ -162,7 +162,7 @@ BSE (V-B)
 
 ---
 
-## 🧾 Bonus Task 7 – Shell Script Execution
+##  Bonus Task 7 – Shell Script Execution
 
 **Created shell script using nano:**  
 ![nano Script](nano_run_demo_b_task(1).png)
@@ -178,7 +178,7 @@ BSE (V-B)
 
 ---
 
-## 🧮 Exam Evaluation Questions
+##  Exam Evaluation Questions
 
 ### Q1 – Remote Access Verification
 
@@ -272,4 +272,4 @@ BSE (V-B)
 
 ---
 
-✅ **End of Lab 04 Report**
+
