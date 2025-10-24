@@ -30,15 +30,15 @@ Create a new virtual machine in VMware and install **Ubuntu** as the guest opera
 Follow the Ubuntu setup steps shown below:
 
 ![Ubuntu Installation – Step 1](images/ubunto-install.png)  
-![Ubuntu Installation – Step 2](images/ubunto-install-2.png)  
-![Ubuntu Installation – Step 3](images/ubunto-install-3.png)
+![Ubuntu Installation – Step 2](ubunto-install-2.png)  
+![Ubuntu Installation – Step 3](ubunto-install-3.png)
 
 ---
 
 ### Step 4: Virtual Machine Created
 Once Ubuntu installation is complete, verify that the **virtual machine** has been successfully created.
 
-![Virtual Machine Created](images/virtual-machine-created.png)
+![Virtual Machine Created](virtual-machine-created.png)
 
 ---
 
