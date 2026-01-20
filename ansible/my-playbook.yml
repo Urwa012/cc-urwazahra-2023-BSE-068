@@ -1,0 +1,37 @@
+- name: httpd
+      state: started
+      enabled: true
+
+    - name: Get IMDSv2 Token
+      uri:
+        url: "http://169.254.169.254/latest/api/token"
+        method: PUT
+        headers:
+          X-aws-ec2-metadata-token-ttl-seconds: "21600"
+        return_content: yes
+      register: imdsv2_token
+
+    - name: Fetch Public IP using token
+      uri:
+        url: "http://169.254.169.254/latest/meta-data/public-ipv4"
+        headers:
+          X-aws-ec2-metadata-token: "{{ imdsv2_token.content }}"
+        return_content: yes
+      register: public_ip
+
+    - name: Fetch Public Hostname using token
+      uri:
+        url: "http://169.254.169.254/latest/meta-data/public-hostname"
+        headers:
+          X-aws-ec2-metadata-token: "{{ imdsv2_token.content }}"
+        return_content: yes
+      register: public_hostname
+
+    - name: Print Public IP
+      debug:
+        msg: "The Public IP is {{ public_ip.content }}"
+
+    - name: Restart httpd
+      service:
+        name: httpd
+        state: restarted
